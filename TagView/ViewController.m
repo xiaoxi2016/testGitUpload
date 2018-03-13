@@ -22,7 +22,7 @@
     NewLineButtonView *tagView = [NewLineButtonView GetView:@[@"woshhjkdschhs",@"fghjk",@"rtyu"] width:[UIScreen mainScreen].bounds.size.width - 30];
     [self.view addSubview:tagView];
     
-    
+    NSLog(@"$$$$$$$$haha");
     
 }
 
